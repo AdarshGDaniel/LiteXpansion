@@ -1,7 +1,7 @@
 # LiteXpansion
 LiteXpansion is a <b>Slimefun4 Addon</b> that started with adding the use full items/machines from SlimeXpansion. This slowly is changing into an Industrial Craft 2 Addon.
 
-## Contents
+## Contents📋
 ### Items
 - Food Synthesizer - Keeps you fed with artificial food;
 - Mag Thor - An extremely durable alloy used;
@@ -15,24 +15,24 @@ LiteXpansion is a <b>Slimefun4 Addon</b> that started with adding the use full i
 - Refined Iron - An Ingot to create various other items; (W.I.P., doesn't have a function yet)
 - Machine Block - Used to create Machines; (W.I.P., doesn't have a function yet)
 
-### Machines
+### Machines💻 
 - Scrap Machine - This machine creates Scrap from every item;
 - Mass Fabricator - Create UU-Matter from Scrap, "takes just a tiny bit of power";
 
-### Tools
+### Tools🛠
 - Wrench - Allows you to remove machines without destroying them; (W.I.P., Doesn't have a function yet)
 
-### Weapons
+### Weapons💣
 - Nano Blade - An advanced piece of technology which can cut through organic tissue with ease;
 
-### Armour
+### Armour🛡 
 - Electric Chestplate - Negates all the damage dealt to player.;
 
-### UU Matter
+### UU Matter🧱
 UU-Matter is a hard to create resource, it can be made in the Mass Fabricator with scrap. You can use UU-Matter to create many items such as grass blocks, glass, copper ingots, etc.
 
 Server admins are able to modify, add or remove UU-Matter recipes.
-#### Configuration
+#### Configuration⚙️
 To add, remove or change recipes you need to modify the `/plugins/LiteXpansion/uumatter.yml` file.
 
 Under `recipes` you need to specify the output, this can be a [Material](https://hub.spigotmc.org/javadocs/spigot/org/bukkit/Material.html) or a Slimefun item ID (addons supported). If you want an amount more than one you can add a colon (`:`) and the amount. Then as a list you specify the recipe where space is nothing and `x` is UU-Matter.
