@@ -1,7 +1,5 @@
 # LiteXpansion
-LiteXpansion is a Slimefun4 Addon that started with adding the use full items/machines from SlimeXpansion. This slowly is changing into an Industrial Craft 2 Addon.
-
-> This README is outdated reeeeee
+LiteXpansion is a <b>Slimefun4 Addon</b> that started with adding the use full items/machines from SlimeXpansion. This slowly is changing into an Industrial Craft 2 Addon.
 
 ## Contents
 ### Items
@@ -39,7 +37,7 @@ To add, remove or change recipes you need to modify the `/plugins/LiteXpansion/u
 
 Under `recipes` you need to specify the output, this can be a [Material](https://hub.spigotmc.org/javadocs/spigot/org/bukkit/Material.html) or a Slimefun item ID (addons supported). If you want an amount more than one you can add a colon (`:`) and the amount. Then as a list you specify the recipe where space is nothing and `x` is UU-Matter.
 
-Here's an example where it generates 20 coal.
+`Here's an example where it generates 20 coal.`
 ```yaml
 recipes:
   # Output item, colon (:) to indicate the amount
